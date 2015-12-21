@@ -1,6 +1,6 @@
 name: kawena
 favicon: null
-layout_spectrum: 0.9292069505900145
+layout_spectrum: 0.98981
 typography_spectrum: 0.3185862326063216
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5434872671030462
+    - '#eedbcd'
+    - '#97c9c8'
+    - '#60b1c6'
+    - '#728faf'
+    - '#5e6f81'
+  brandStrength: 0.6875
   lightness: 0.9579914188943803
   saturation: 0.2706317091360688
   rhythmicContrast: 0.48695891723036766
